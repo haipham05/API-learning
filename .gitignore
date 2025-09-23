@@ -1,0 +1,46 @@
+/*
+
+# But keep these
+!.gitignore
+!Project/
+
+# Ignore typical python cache files anywhere
+__pycache__/
+*.py[cod]
+.Python
+
+# Virtualenv
+venv/
+env/
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini# Ignore everything
+/*
+
+# But keep these
+!.gitignore
+!Project/
+
+# Ignore typical python cache files anywhere
+__pycache__/
+*.py[cod]
+.Python
+
+# Virtualenv
+venv/
+env/
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini

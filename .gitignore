@@ -44,3 +44,7 @@ env/
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+
+
+#quiz, asignment file
+*.html
